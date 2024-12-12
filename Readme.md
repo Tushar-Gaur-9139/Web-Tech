@@ -95,12 +95,10 @@ syntax:-
     </dl>
 -------------------------------------------------------multimedia tag------------------------------------------------------
 1)audio tag:-audio tag is used to add the audio in the html document.
-syntax:-
+syntax:- <audio src="path" controls></audio>
        
 2)video tag:-video tag is used to add the video in html document.
 syntax:-
-       
+       <video src="path" controls></video>
 =======
-# Tushar Gaur
 
->>>>>>> 049a5631d50fd7e4e0e139fa42cc44883fed6cae
